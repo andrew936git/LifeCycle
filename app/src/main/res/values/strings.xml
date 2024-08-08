@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LifeCycle</string>
+    <string name="heightText">Рост</string>
+    <string name="weightText">Вес</string>
+    <string name="buttonText">Расчитать</string>
+    <string name="titleText">Индекс массы тела</string>
+    <string name="imageViewText">Изображение</string>
+</resources>
